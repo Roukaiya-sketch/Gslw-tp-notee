@@ -5,7 +5,7 @@
 ecrivez la commande suivante
 
 ```sh
-gpg -ca toto.txt
+gpg -c toto.txt
 ```
 
 ## Pour decrypter le fichier toto.txt
@@ -13,7 +13,7 @@ gpg -ca toto.txt
 ecrivez la commande suivante
 
 ```sh
-gpg -d toto.txt
+gpg -d toto.txt.gpg
 ```
 
 
