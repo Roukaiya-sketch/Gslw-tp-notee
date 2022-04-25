@@ -2,7 +2,7 @@
 
 ## Pour crypter le fichier toto.txt
 
-faites dans le terminal
+ecrivez la commande suivante
 
 ```sh
 gpg -ca toto.txt
@@ -10,7 +10,7 @@ gpg -ca toto.txt
 
 ## Pour decrypter le fichier toto.txt
 
-faites dans le terminal
+ecrivez la commande suivante
 
 ```sh
 gpg -d toto.txt
