@@ -34,4 +34,11 @@ python3 decrypt.py /toto.txt /toto_decrypted
 
 ```
 
+## Pour uninstall le projet
+
+ecrivez la commande suivante
+
+```sh
+python3 unistall
+
 
