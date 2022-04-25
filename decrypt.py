@@ -1,1 +1,1 @@
-gpg -da toto.txt.gpg
+gpg -d toto.txt.gpg
