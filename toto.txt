@@ -1,2 +1,1 @@
-bonjour
-je suis une tomate
+Bonjour, je suis une tomate
